@@ -2,6 +2,8 @@
 ## Group Name: Food Access in LA County
 ### Group Assignment 1
 
+Group Members: Madi Hamilton, Jessica Fay, Meaghan Woody, Branden Bohrnsen
+
 ## Introduction:
 We plan to explore the relationship between food insecurity and adult health outcomes in Los Angeles County. Food insecure areas do not exist randomly throughout the [county of Los Angeles](https://storymaps.arcgis.com/stories/4ef7d78c52ec4b29a6073ffdc6809e83), and are often correlated with race and income levels (U.S. Department of Health and Human Services, n.d.). Food insecurity has been shown to be associated with cardiovascular disease, possibly through a circular association, where some studies suggest that cardiovascular medical cost could result in being food insecure (Chang et al., 2022). Given this association, it is important to investigate how these variables are distributed across Los Angeles County to delineate areas that are most affected or neighborhoods that could benefit from an intervention. Our research aims to understand the impact of government policy such as EBT access on adult cardiovascular health in the County of Los Angeles. Our primary research question is: does food insecurity spatially associate with adult cardiovascular disease in Los Angeles County and if so, what is the association?
 
